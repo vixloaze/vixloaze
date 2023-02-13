@@ -29,3 +29,7 @@
 <br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
+
+</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vixloaze&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=vixloaze&show_icons=true">
