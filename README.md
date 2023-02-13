@@ -31,5 +31,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vixloaze&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=vixloaze&show_icons=true">
+
+## Git Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=agllwy116)](https://solved.ac/agllwy116/)
